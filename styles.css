@@ -1,6 +1,12 @@
-.bgmi{
-border: 20px;
+.heading{
+    font-family: algerian;
+    font-size: 20px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: aqua
 }
-.a{
-    border: 3px solid rgb(3, 17, 22);
+#heading1{
+    text-decoration: line-through;
+    color: lightseagreen;
+    background-color:antiquewhite ;
 }
